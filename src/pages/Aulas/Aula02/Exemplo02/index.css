@@ -1,0 +1,12 @@
+
+.pokebola {
+  width: 100px;
+  height: 100px;
+}
+
+.pokebola {
+  transition: transform 1.4s ease-in-out;
+}
+.pokebola:hover {
+  transform: rotate(720deg);
+}

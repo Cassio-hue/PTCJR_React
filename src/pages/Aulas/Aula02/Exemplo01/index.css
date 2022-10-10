@@ -1,0 +1,21 @@
+.Avatar {
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 90px;
+  height: 90px;
+}
+
+.Comment {
+  display: flex;
+  align-items: center;
+  font-size: 1.4em;
+  line-height: 1.1;
+  border-style: solid;
+  padding: 20px;
+}
+
+.Comment-date {
+    font-size: 0.5em;
+    padding-left: 10px;
+}
